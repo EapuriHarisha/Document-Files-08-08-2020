@@ -18,8 +18,8 @@
 # -- Project information -----------------------------------------------------
 
 project = 'Source Code Management'
-copyright = '2020, Harideep'
-author = 'Harideep'
+copyright = '2020, Harisha'
+author = 'Harisha'
 
 # The full version, including alpha/beta/rc tags
 release = '1'
